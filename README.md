@@ -11,7 +11,7 @@ The #Sitecore Commerce Install Assistant (SCIA) supports Sitecore Commerce 10 in
 - Alert if an XP installation doesn't have sxa enabled and doesn't launch commerce install
 
 How to use?
- - After having installed Sitecore SXA website using SIA, Download the SCIA zip, unzip it, add it under  \Sitecore.Commerce.WDP.2020.08-6.0.238\SIF.Sitecore.Commerce.5.0.49 along with all pre-requisites
+ - After having installed Sitecore SXA website using SIA, Download the SCIA zip, unzip it, just add the exe under  \Sitecore.Commerce.WDP.2020.08-6.0.238\SIF.Sitecore.Commerce.5.0.49 
  - Right click the exe and "Run as Administrator"
  
  For more details, check these blogs:
