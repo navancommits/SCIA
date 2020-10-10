@@ -15,5 +15,5 @@ How to use?
  - Right click the exe and "Run as Administrator"
  
  For more details, check these blogs:
- https://navansitecorenotes.blogspot.com/2020/10/a-sneak-peek-at-scia-features-part-1.html
- https://navansitecorenotes.blogspot.com/2020/10/sitecore-commerce-installer-scia.html
+- https://navansitecorenotes.blogspot.com/2020/10/a-sneak-peek-at-scia-features-part-1.html
+- https://navansitecorenotes.blogspot.com/2020/10/sitecore-commerce-installer-scia.html
