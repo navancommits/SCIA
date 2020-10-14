@@ -19,3 +19,10 @@ How to use?
  For more details, check these blogs:
 - https://navansitecorenotes.blogspot.com/2020/10/a-sneak-peek-at-scia-features-part-1.html
 - https://navansitecorenotes.blogspot.com/2020/10/sitecore-commerce-installer-scia.html
+
+Work in progress:
+- Pre-requisites listing tab
+- Db connectivity check
+- Solr connectivity check
+- Settings tab that stores one-time input like solr, braintree etc.
+- Store and pick specific details of the instance inc. port 
