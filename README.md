@@ -21,7 +21,7 @@ How to use?
 - https://navansitecorenotes.blogspot.com/2020/10/sitecore-commerce-installer-scia.html
 
 Work in progress:
-- Pre-requisites listing tab
+- Pre-requisites listing check tab
 - Db connectivity check
 - Solr connectivity check
 - Settings tab that stores one-time input like solr, braintree etc.
