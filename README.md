@@ -26,3 +26,5 @@ Work in progress:
 - Solr connectivity check
 - Settings tab that stores one-time input like solr, braintree etc.
 - Store and pick specific details of the instance inc. port 
+- Support for Sitecore Commerce 9.3
+- Look at support for versions earlier than Sitecore Commerce 9.3
