@@ -28,3 +28,4 @@ Work in progress:
 - Store and pick specific details of the instance inc. port 
 - Support for Sitecore Commerce 9.3
 - Look at support for versions earlier than Sitecore Commerce 9.3
+- Solution for PS task issues occuring during repeat runs
