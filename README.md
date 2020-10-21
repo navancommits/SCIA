@@ -2,6 +2,10 @@
 KEY FEATURE:
 - The tool is based on Sitecore Install Assistant (SIA) naming convention. So, if you installed Sitecore through SIA, just change the SiteNamePrefix field in the SiteInfo tab and the other fields will be automatically filled for you except for Solr and Braintree setting.
 
+What is in SCIA_2.1
+- Zap that removes both Commerce and Sitecore footprints from the machine in one-shot
+- Removed a few validations from uninstall button to make launch easier
+
 The #Sitecore Commerce Install Assistant (SCIA) supports Sitecore Commerce 10 installation as of now. Built as a #dotnetcore 2019 Windows Application, it can -
 
 - Generate install and uninstall scripts for Sitecore Commerce 10
