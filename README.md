@@ -35,5 +35,5 @@ Work in progress:
 - Support for Sitecore Commerce 9.3
 - Look at support for versions earlier than Sitecore Commerce 9.3
 - Solution for PS task issues occuring during repeat runs - Done
-- Option to cleanup C:\certificates, c:\users, solr folders, services, webroot, app pools, dbs related to whole of Sitecore Instance 
+- Option to cleanup C:\certificates, c:\users, solr folders, services, webroot, app pools, dbs related to whole of Sitecore Instance  - Done
 - Download and install pre-requisites like Redis, aspnetcorev2 (windows bundle 3.1.6 and above) etc.
