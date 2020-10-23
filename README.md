@@ -2,7 +2,14 @@
 KEY FEATURE:
 - The tool is based on Sitecore Install Assistant (SIA) naming convention. So, if you installed Sitecore through SIA, just change the SiteNamePrefix field in the SiteInfo tab and the other fields will be automatically filled for you except for Solr and Braintree setting.
 
-What is in SCIA_2.1
+What is added in SCIA_2.2
+- DB Connection Check
+- Solr Url Check
+- Validates if Solr version is 8.4.0
+- Locked down controls to streamline user entry
+- Validate All button
+
+What is added in SCIA_2.1
 - Zap that removes both Commerce and Sitecore footprints from the machine in one-shot
 - Removed a few validations from uninstall button to make launch easier
 
