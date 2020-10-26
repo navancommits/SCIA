@@ -2,6 +2,11 @@
 KEY FEATURE:
 - The tool is based on Sitecore Install Assistant (SIA) naming convention. So, if you installed Sitecore through SIA, just change the SiteNamePrefix field in the SiteInfo tab and the other fields will be automatically filled for you except for Solr and Braintree setting.
 
+What is added in SCIA_2.4
+- Its a smaller exe, 300 KB
+- Preview button to view PS Script at any point of filling details
+- Settings form for one-time or once-in-a-while settings like Braintree
+
 What is added in SCIA_2.3
 - Its a smaller exe
 - Zap functionality is cleaner
