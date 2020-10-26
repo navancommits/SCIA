@@ -5,7 +5,7 @@ KEY FEATURE:
 What is added in SCIA_2.4
 - Even smaller exe, 300 KB
 - Preview button to view PS Script at any point of filling details
-- Settings form for one-time or once-in-a-while settings like Braintree
+- Settings form for one-time or once-in-a-while settings like Braintree, site suffix etc.
 
 What is added in SCIA_2.3
 - Its a smaller exe
