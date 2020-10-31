@@ -2,6 +2,14 @@
 KEY FEATURE:
 - The tool is based on Sitecore Install Assistant (SIA) naming convention. So, if you installed Sitecore through SIA, just change the SiteNamePrefix field in the SiteInfo tab and the other fields will be automatically filled for you except for Solr and Braintree setting.
 
+What is added in SCIA_2.7 
+- Streamlined enabling/disabling of Install/Uninstall buttons
+- Fixed issues picking up correct values for ports
+- Preview button is enabled throughout the steps
+- Only after the user validates the db connectivity, next button gets enabled for step 2
+- All menu buttons get enabled only after crossing step 2
+- After step 2, Press Validate All button to fix validation issues and then the install/uninstall buttons get enabled/disabled automatically
+
 What is added in SCIA_2.6 
 - Built for x64 processor 
 - Tested for more scenarios, stores and retrieves SCIA data
