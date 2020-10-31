@@ -21,7 +21,7 @@ What is added in SCIA_2.5
 - Settings picked up and SCIA details stored in db on install
 - Next time, SCIA details like port info picked automatically
 
-What is added in SCIA_2.4 (Unstable - WIP)
+What is added in SCIA_2.4 (Unstable)
 - Even smaller exe, 300 KB
 - Preview button to view PS Script at any point of filling details
 - Settings form for one-time or once-in-a-while settings like Braintree, site suffix etc.
