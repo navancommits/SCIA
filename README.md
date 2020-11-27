@@ -1,3 +1,5 @@
+Latest releases added to https://github.com/navancommits/SitecoreCompleteInstallAssistant
+
 # Sitecore Commerce Install Assistant (SCIA) : GUI-based installation for Sitecore Commerce Instances
 KEY FEATURE:
 - The tool is based on Sitecore Install Assistant (SIA) naming convention. So, if you installed Sitecore through SIA, just change the SiteNamePrefix field in the SiteInfo tab and the other fields will be automatically filled for you except for Solr and Braintree setting.
